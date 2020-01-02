@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import NeedList from './components/NeedList'
 import './style/App.css';
 
